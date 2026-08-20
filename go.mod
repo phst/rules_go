@@ -2,7 +2,7 @@ module github.com/bazelbuild/rules_go
 
 toolchain go1.25.0
 
-go 1.24.0
+go 1.26.7
 
 require (
 	github.com/aymanbagabas/go-udiff v0.4.1
